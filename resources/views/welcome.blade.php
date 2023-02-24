@@ -22,7 +22,7 @@
     </head>
     <body class="antialiased">
         <div class="relative flex items-top justify-center min-h-screen bg-gray-100 dark:bg-gray-900 sm:items-center py-4 sm:pt-0">
-            <div class="ml-4 text-lg leading-7 font-semibold"><h1 class="text-grey-900 dark:text-white">Wiradarma Nurmagika Bagaskara</h1></div>
+            <div class="ml-4 text-lg leading-7 font-semibold"><h1 class="text-grey-900 dark:text-white">Wiradarma Nurmagika Bagaskara 29</h1></div>
         </div>
     </body>
 </html>
